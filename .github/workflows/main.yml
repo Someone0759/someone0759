@@ -11,7 +11,7 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: nick22985/Dev-Stats@V0.0.4
+      - uses: anmol098/waka-readme-stats@master
         with:
           # Github access token with Repo Scope
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
