@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every monday at 12AM UTC
-    - cron: "50 23 * * 11"
+    - cron: "30 0 * * 6"
   # You may pin to the exact commit or the version.
 
 jobs:
