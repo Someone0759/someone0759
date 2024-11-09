@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs every monday at 12AM UTC
-    - cron: "30 0 * * 6"
+    - cron: "47 15 * * 6"
   # You may pin to the exact commit or the version.
 
 jobs:
@@ -21,22 +21,17 @@ jobs:
           SHOW_LOC_CHART: "False"
           # Github Summary
           SHOW_SHORT_INFO: "False"
-          # Shows language activity for that week
-          SHOW_BREAK_DOWN: "True"
           # Shows timezone. Requires SHOW_BREAK_DOWN=true
           SHOW_TIMEZONE: "True"
           # Shows editors used in the week SHOW_BREAK_DOWN=true
           SHOW_EDITORS: "True"
           # Show week coding language breakdown
-          SHOW_LANGUAGES: "True"
+          SHOW_LANGUAGE: "True"
           # Shows Operating System
           SHOW_OS: "False"
-          # Show Hostnames of computers
-          SHOW_HOSTS: "False"
           # Shows github repo language counts
           SHOW_LANGUAGE_PER_REPO: "True"
           # Show Projects worked on that week
           SHOW_PROJECTS: "False"
-          # You can exclude repos that you don't want showing on your readme page
-          EXCLUDE_PROJECT: "False"
+         
             
