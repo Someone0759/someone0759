@@ -5,7 +5,7 @@
 - 😄 Pronouns: they/them
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,13 +34,10 @@ Sunday                   20 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Java                     2 hrs 35 mins       █████████████████████████   99.51 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           2 hrs 36 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -56,5 +53,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/11/2024 16:33:54 UTC
+ Last Updated on 30/11/2024 16:33:29 UTC
 <!--END_SECTION:waka-->
